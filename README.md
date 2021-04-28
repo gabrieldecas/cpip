@@ -1,2 +1,2 @@
 # cpip
-Proyecto de tesis
+Proyecto de Tesis
